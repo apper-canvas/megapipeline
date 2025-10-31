@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Outlet } from "react-router-dom";
+import { Outlet, useOutletContext } from "react-router-dom";
 import Sidebar from "@/components/organisms/Sidebar";
 import MobileSidebar from "@/components/organisms/MobileSidebar";
 import Header from "@/components/organisms/Header";
@@ -15,7 +15,12 @@ const Layout = () => {
     setIsMobileSidebarOpen(false);
   };
 
-  return (
+  const outletContext = {
+    isMobileSidebarOpen,
+    toggleMobileSidebar,
+    closeMobileSidebar
+  };
+return (
     <div className="h-screen flex overflow-hidden bg-gray-50">
       {/* Desktop Sidebar */}
       <div className="hidden lg:flex lg:flex-shrink-0">
@@ -36,11 +41,13 @@ const Layout = () => {
 
         {/* Page Content */}
         <main className="flex-1 overflow-y-auto">
-          <Outlet />
+          <Outlet context={outletContext} />
         </main>
       </div>
     </div>
   );
 };
+
+export { useOutletContext };
 
 export default Layout;
