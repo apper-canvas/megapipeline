@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "lastContactDate": "2024-01-15T10:30:00Z",
+    "createdAt": "2024-01-01T09:00:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "email": "m.chen@innovatelab.io",
+    "phone": "+1 (555) 234-5678",
+    "company": "InnovateLab",
+    "lastContactDate": "2024-01-14T14:20:00Z",
+    "createdAt": "2024-01-02T11:15:00Z",
+    "updatedAt": "2024-01-14T14:20:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalventures.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Global Ventures",
+    "lastContactDate": "2024-01-13T16:45:00Z",
+    "createdAt": "2024-01-03T13:30:00Z",
+    "updatedAt": "2024-01-13T16:45:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "David Thompson",
+    "email": "david.thompson@startup.co",
+    "phone": "+1 (555) 456-7890",
+    "company": "StartupCo",
+    "lastContactDate": "2024-01-12T08:15:00Z",
+    "createdAt": "2024-01-04T15:45:00Z",
+    "updatedAt": "2024-01-12T08:15:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Wang",
+    "email": "lisa.wang@designstudio.net",
+    "phone": "+1 (555) 567-8901",
+    "company": "Design Studio Pro",
+    "lastContactDate": "2024-01-11T12:00:00Z",
+    "createdAt": "2024-01-05T10:20:00Z",
+    "updatedAt": "2024-01-11T12:00:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Robert Kim",
+    "email": "robert.kim@consulting.biz",
+    "phone": "+1 (555) 678-9012",
+    "company": "Strategic Consulting",
+    "lastContactDate": "2024-01-10T17:30:00Z",
+    "createdAt": "2024-01-06T14:10:00Z",
+    "updatedAt": "2024-01-10T17:30:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "Amanda Davis",
+    "email": "amanda.davis@marketing.agency",
+    "phone": "+1 (555) 789-0123",
+    "company": "Creative Marketing Agency",
+    "lastContactDate": "2024-01-09T11:45:00Z",
+    "createdAt": "2024-01-07T16:25:00Z",
+    "updatedAt": "2024-01-09T11:45:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "James Wilson",
+    "email": "james.wilson@freelancer.com",
+    "phone": "+1 (555) 890-1234",
+    "company": "",
+    "lastContactDate": "2024-01-08T09:20:00Z",
+    "createdAt": "2024-01-08T09:00:00Z",
+    "updatedAt": "2024-01-08T09:20:00Z"
+  },
+  {
+    "Id": 9,
+    "name": "Jessica Brown",
+    "email": "jessica.brown@fintech.startup",
+    "phone": "+1 (555) 901-2345",
+    "company": "FinTech Innovations",
+    "lastContactDate": "2024-01-07T15:10:00Z",
+    "createdAt": "2024-01-09T12:30:00Z",
+    "updatedAt": "2024-01-07T15:10:00Z"
+  },
+  {
+    "Id": 10,
+    "name": "Christopher Lee",
+    "email": "chris.lee@ecommerce.store",
+    "phone": "+1 (555) 012-3456",
+    "company": "E-Commerce Plus",
+    "lastContactDate": "2024-01-06T13:25:00Z",
+    "createdAt": "2024-01-10T08:45:00Z",
+    "updatedAt": "2024-01-06T13:25:00Z"
+  },
+  {
+    "Id": 11,
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@healthtech.com",
+    "phone": "+1 (555) 123-5678",
+    "company": "HealthTech Solutions",
+    "lastContactDate": "2024-01-05T10:40:00Z",
+    "createdAt": "2024-01-11T14:20:00Z",
+    "updatedAt": "2024-01-05T10:40:00Z"
+  },
+  {
+    "Id": 12,
+    "name": "Daniel Garcia",
+    "email": "daniel.garcia@realestate.group",
+    "phone": "+1 (555) 234-6789",
+    "company": "Prime Real Estate Group",
+    "lastContactDate": "2024-01-04T16:55:00Z",
+    "createdAt": "2024-01-12T11:10:00Z",
+    "updatedAt": "2024-01-04T16:55:00Z"
+  },
+  {
+    "Id": 13,
+    "name": "Olivia Taylor",
+    "email": "olivia.taylor@edutech.platform",
+    "phone": "+1 (555) 345-7890",
+    "company": "EduTech Platform",
+    "lastContactDate": "2024-01-03T14:15:00Z",
+    "createdAt": "2024-01-13T09:35:00Z",
+    "updatedAt": "2024-01-03T14:15:00Z"
+  },
+  {
+    "Id": 14,
+    "name": "Matthew Anderson",
+    "email": "matthew.anderson@logistics.co",
+    "phone": "+1 (555) 456-8901",
+    "company": "Smart Logistics Co",
+    "lastContactDate": "2024-01-02T11:30:00Z",
+    "createdAt": "2024-01-14T13:50:00Z",
+    "updatedAt": "2024-01-02T11:30:00Z"
+  },
+  {
+    "Id": 15,
+    "name": "Isabella Thomas",
+    "email": "isabella.thomas@fashion.brand",
+    "phone": "+1 (555) 567-9012",
+    "company": "Trendy Fashion Brand",
+    "lastContactDate": "2024-01-01T18:45:00Z",
+    "createdAt": "2024-01-15T16:40:00Z",
+    "updatedAt": "2024-01-01T18:45:00Z"
+  },
+  {
+    "Id": 16,
+    "name": "Andrew Jackson",
+    "email": "andrew.jackson@automotive.tech",
+    "phone": "+1 (555) 678-0123",
+    "company": "Automotive Tech Solutions",
+    "lastContactDate": "2023-12-31T12:20:00Z",
+    "createdAt": "2024-01-16T10:25:00Z",
+    "updatedAt": "2023-12-31T12:20:00Z"
+  },
+  {
+    "Id": 17,
+    "name": "Mia White",
+    "email": "mia.white@food.delivery",
+    "phone": "+1 (555) 789-1234",
+    "company": "Quick Food Delivery",
+    "lastContactDate": "2023-12-30T15:35:00Z",
+    "createdAt": "2024-01-17T12:15:00Z",
+    "updatedAt": "2023-12-30T15:35:00Z"
+  },
+  {
+    "Id": 18,
+    "name": "Ethan Harris",
+    "email": "ethan.harris@gaming.studio",
+    "phone": "+1 (555) 890-2345",
+    "company": "Indie Gaming Studio",
+    "lastContactDate": "2023-12-29T09:50:00Z",
+    "createdAt": "2024-01-18T14:30:00Z",
+    "updatedAt": "2023-12-29T09:50:00Z"
+  },
+  {
+    "Id": 19,
+    "name": "Charlotte Clark",
+    "email": "charlotte.clark@travel.agency",
+    "phone": "+1 (555) 901-3456",
+    "company": "Adventure Travel Agency",
+    "lastContactDate": "2023-12-28T17:15:00Z",
+    "createdAt": "2024-01-19T08:55:00Z",
+    "updatedAt": "2023-12-28T17:15:00Z"
+  },
+  {
+    "Id": 20,
+    "name": "William Lewis",
+    "email": "william.lewis@security.firm",
+    "phone": "+1 (555) 012-4567",
+    "company": "CyberSecurity Firm",
+    "lastContactDate": "2023-12-27T13:40:00Z",
+    "createdAt": "2024-01-20T11:45:00Z",
+    "updatedAt": "2023-12-27T13:40:00Z"
+  }
+]
