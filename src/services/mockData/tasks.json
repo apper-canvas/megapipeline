@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "title": "Follow up on proposal with Tech Solutions Inc",
+    "description": "Schedule a call to discuss the revised pricing and implementation timeline for the enterprise package.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2024-02-15T10:00:00.000Z",
+    "contactName": "Sarah Johnson",
+    "company": "Tech Solutions Inc",
+    "completed": false,
+    "createdAt": "2024-01-20T09:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Prepare quarterly business review for Global Innovations",
+    "description": "Compile performance metrics, ROI analysis, and strategic recommendations for Q1 2024 review meeting.",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2024-02-20T14:00:00.000Z",
+    "contactName": "Michael Chen",
+    "company": "Global Innovations",
+    "completed": false,
+    "createdAt": "2024-01-18T11:30:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Send contract renewal to Apex Corp",
+    "description": "Prepare and send the annual contract renewal documents with updated terms and pricing for 2024.",
+    "status": "Completed",
+    "priority": "Medium",
+    "dueDate": "2024-02-10T09:00:00.000Z",
+    "contactName": "David Martinez",
+    "company": "Apex Corp",
+    "completed": true,
+    "createdAt": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Schedule product demo for Innovation Labs",
+    "description": "Coordinate with technical team to deliver comprehensive product demonstration showcasing new features.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2024-02-18T15:00:00.000Z",
+    "contactName": "Emily Rodriguez",
+    "company": "Innovation Labs",
+    "completed": false,
+    "createdAt": "2024-01-22T10:15:00.000Z"
+  },
+  {
+    "Id": 5,
+    "title": "Review technical requirements with Future Tech",
+    "description": "Meet with technical stakeholders to finalize integration specifications and API documentation.",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2024-02-25T13:00:00.000Z",
+    "contactName": "James Wilson",
+    "company": "Future Tech",
+    "completed": false,
+    "createdAt": "2024-01-19T14:45:00.000Z"
+  },
+  {
+    "Id": 6,
+    "title": "Send thank you note to NextGen Solutions",
+    "description": "Follow up with personalized thank you message after successful project completion and positive feedback.",
+    "status": "Pending",
+    "priority": "Low",
+    "dueDate": "2024-02-28T16:00:00.000Z",
+    "contactName": "Lisa Anderson",
+    "company": "NextGen Solutions",
+    "completed": false,
+    "createdAt": "2024-01-23T09:30:00.000Z"
+  },
+  {
+    "Id": 7,
+    "title": "Update CRM data for Digital Dynamics",
+    "description": "Refresh contact information, update deal stages, and log recent communication activities in the system.",
+    "status": "Completed",
+    "priority": "Low",
+    "dueDate": "2024-02-12T11:00:00.000Z",
+    "contactName": "Robert Taylor",
+    "company": "Digital Dynamics",
+    "completed": true,
+    "createdAt": "2024-01-16T13:00:00.000Z"
+  },
+  {
+    "Id": 8,
+    "title": "Prepare onboarding materials for Cloud Systems",
+    "description": "Create comprehensive onboarding package including training schedule, documentation, and success metrics.",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2024-02-22T10:00:00.000Z",
+    "contactName": "Jennifer Brown",
+    "company": "Cloud Systems",
+    "completed": false,
+    "createdAt": "2024-01-21T15:20:00.000Z"
+  }
+]
