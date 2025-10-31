@@ -1,5 +1,6 @@
 import dealService from '@/services/api/dealService';
-import contactService from '@/services/api/contactService';
+import { ContactService } from '@/services/api/contactService';
+const contactService = new ContactService();
 import companyService from '@/services/api/companyService';
 import taskService from '@/services/api/taskService';
 
