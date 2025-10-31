@@ -1,5 +1,5 @@
 import dealService from '@/services/api/dealService';
-import contactService from '@/services/api/contactService';
+import { contactService } from '@/services/api/contactService';
 import companyService from '@/services/api/companyService';
 import taskService from '@/services/api/taskService';
 
